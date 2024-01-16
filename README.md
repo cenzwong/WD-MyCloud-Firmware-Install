@@ -20,3 +20,8 @@ cd /mnt/root/boot
 / # sync
 / # reboot -f
 ```
+
+
+
+
+https://support-en.wd.com/app/products/product-detailweb/p/126
