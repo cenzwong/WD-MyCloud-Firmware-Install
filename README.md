@@ -25,3 +25,9 @@ cd /mnt/root/boot
 
 
 https://support-en.wd.com/app/products/product-detailweb/p/126
+
+You will see the upload page:
+Version: Firmware Release 2.42.115 (1/18/2022)
+First flash the OS3
+
+Then upgrade to OS5
